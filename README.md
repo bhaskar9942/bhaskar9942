@@ -31,7 +31,7 @@ My primary career focus is **Data Analytics and SQL Development**, with addition
 
 - Analyzed home loan applicant data to understand credit risk and loan default patterns.
 - Explored applicant information and financial indicators to identify risk factors.
-- Worked on SQL-based analysis and Power BI visualizations to communicate insights.
+- Extended the analysis with SQL-based business questions and Power BI dashboard development.
 
 ### 2. Rice Leaf Disease Detection
 **Technologies:** Python, TensorFlow, CNN, MobileNetV2
